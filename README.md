@@ -20,8 +20,8 @@
 
 ## 🚀 Sobre mim 
 
-- 🎓 Formado em **Engenharia Elétrica** pela Universidade do Oeste de Santa Catarina (UNOESC), Campus Joaçaba/SC. 
-- 🤖 Atuo com pesquisas no desenvolvimento de sistemas autônomos robóticos utilizando **ROS 2** e sistema de Transferência de Energia sem Fio.  
+- 🎓 Formado em **Engenharia Elétrica** pela Universidade do Oeste de Santa Catarina (UNOESC), Campus Joaçaba/SC.  
+- 🤖 Atuo com pesquisas no desenvolvimento de sistemas autônomos robóticos utilizando **ROS 2** e em sistemas de **Transferência de Energia sem Fio**.
 
 ---
 
