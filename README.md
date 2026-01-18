@@ -1,16 +1,42 @@
-## Hi there 👋
+## 📫 Contato
 
-<!--
-**CarlosLeonardo29/CarlosLeonardo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Eng. Carlos Leonardo Lazzari
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-leonardo29/">
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos_Leonardo-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="http://lattes.cnpq.br/1607061869218351">
+    <img src="https://img.shields.io/badge/Currículo-Lattes-green"/>
+  </a>
+  <a href="https://linktr.ee/carlosleonardo29">
+    <img src="https://img.shields.io/badge/Linktree-Carlos_Leonardo-brightgreen?logo=linktree&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 📩 E-mail: [carlos.leonardo290403@gmail.com](mailto:carlos.leonardo290403@gmail.com)
+
+---
+
+## 🚀 Sobre mim 
+
+- 🎓 Formado em **Engenharia Elétrica** pela Universidade do Oeste de Santa Catarina (UNOESC), Campus Joaçaba/SC. 
+- 🤖 Atuo com pesquisas no desenvolvimento de sistemas autônomos robóticos utilizando **ROS 2**. 
+- 🔧 Possuo interesse em:  
+  - Veículos autônomos  
+  - Robótica  
+  - Sistemas embarcados
+  - Eletrônica de Potência
+  - Sistemas de Energia
+
+---
+
+## 📂 Principais Projetos Disponíveis Publicamente
+
+- 🏎️ **Veículo Autônomo – Categoria Trekking**  
+  Desenvolvimento de plataforma 1/10 com ROS para mapeamento e navegação autônoma.
+
+- 🃏 **MLP Poker Hands**  
+  Classificação de mãos de poker com comparação de otimizadores em redes neurais.
+
+---
